@@ -22,7 +22,7 @@
 ## 📁 Projects
 
 ### A01 — Synthesia Avatar Videos
-AI avatar videos demonstrating Synthesia's capabilities across four scenarios:
+AI avatar videos demonstrating Synthesia capabilities across four scenarios:
 - 🎅 **Holiday greeting** — AI Santa avatar explaining Synthesia personalized video generation
 - 👩‍💼 **Personal resume intro** — Brandie's avatar introducing herself as a student-instructor in tech
 - 🏫 **Instructor demo** — Avatar teaching a short lesson on AI in healthcare
@@ -72,10 +72,17 @@ Slides covered:
 
 ---
 
-### Midterm — OpenClaw & Agentic AI Research (NVIDIA GTC 2026)
-In-depth research report analyzing Jensen Huang's NVIDIA GTC 2026 keynote on **OpenClaw** and the rise of agentic AI.
+### Midterm — VideoBot: AI at HCC (NVIDIA GTC 2026 Research)
+Midterm project combining a technical video report and written research on **OpenClaw** and the rise of agentic AI from Jensen Huang's NVIDIA GTC 2026 keynote.
 
-**Key findings:**
+**VideoBot project highlights:**
+- Created a professional AI-generated educational video titled "AI at HCC" using Synthesia
+- Demonstrated real applications: healthcare AI, robotics, ML models, cloud-based solutions
+- Practiced prompt engineering, scriptwriting, and AI-assisted video production
+
+▶️ [Watch Midterm VideoBot — AI at HCC](https://share.synthesia.io/e3cb7788-fb5d-44d3-bb5e-5984ccb04785)
+
+**OpenClaw research key findings:**
 - **OpenClaw** — Open-source autonomous agent runtime (250,000+ GitHub stars by March 2026). Runs locally, integrates with messaging platforms, files, APIs, and smart home devices via an agentic loop
 - **NemoClaw** — NVIDIA's enterprise-ready security stack: OpenShell sandboxed runtime, YAML policy enforcement, audit logging
 - **SaaS → Agent-as-a-Service** — AI agents now perform multi-step work autonomously rather than merely assisting humans
